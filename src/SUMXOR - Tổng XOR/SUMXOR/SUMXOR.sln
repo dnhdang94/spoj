@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SUMXOR", "SUMXOR\SUMXOR.vcxproj", "{214034AF-01D9-46F3-9411-642906001BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{214034AF-01D9-46F3-9411-642906001BFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{214034AF-01D9-46F3-9411-642906001BFE}.Debug|Win32.Build.0 = Debug|Win32
+		{214034AF-01D9-46F3-9411-642906001BFE}.Release|Win32.ActiveCfg = Release|Win32
+		{214034AF-01D9-46F3-9411-642906001BFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
