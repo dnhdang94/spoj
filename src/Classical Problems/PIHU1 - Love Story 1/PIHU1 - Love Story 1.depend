@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579625437 source:h:\study\coding practice\spoj\src\classical problems\pihu1 - love story 1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
